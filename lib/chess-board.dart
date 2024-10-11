@@ -9,7 +9,7 @@ class Chessboard extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: 50,
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.blue,
         title: Center(
           child: Text
           ("Chess Board",style: TextStyle(color: Colors.white, ),),
